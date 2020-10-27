@@ -1,6 +1,5 @@
 import React from 'react';
 
-// **** import style ****
 import './UserOutput.css';
 const userOutput = (props) => {
     return (
